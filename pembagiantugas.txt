@@ -1,0 +1,21 @@
+Kevin:
+- Mengerjakan database
+- Mengerjakan register
+- Mengerjakan seeder oleh-oleh, pengguna, transaksi yang update db
+- Mengerjakan Login
+- Mengerjakan menu:
+   a. oleh-oleh
+   b. transaksi: batal, dan belum diambil
+
+Imam:
+-Mengerjakan menu transaksi:
+  a. belum bayar
+  b. sudah ambil
+-Mengerjakan logo
+-Membuat tampilan pesanan
+
+Christhofer : 
+-Mengerjakan Dashboard
+-view table admin
+-view table pengguna
+-About Us
